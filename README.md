@@ -1,5 +1,4 @@
 # Mapping_Earthquakes
-Createing earthquake maps using JavaScript to demonstrate the relationship between location and frequency of seismic activity and tectonic plates.
 
 Mapping Earthquake Data using GeoJSON and JavaScript
 
